@@ -1,2 +1,2 @@
-# Digital Image Processing
+# Software Programming Team github repo
 team work
