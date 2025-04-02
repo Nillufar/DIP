@@ -1,0 +1,12 @@
+
+STUDENT_ID="YOURSTUDENTID"
+
+
+git checkout -b ${STUDENT_ID}_branch
+
+
+git add myfile_${STUDENT_ID}.json
+git commit -m "Added myfile_${STUDENT_ID}.json"
+
+
+git push origin ${STUDENT_ID}_branch
